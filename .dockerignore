@@ -1,0 +1,7 @@
+.git
+.idea
+.styleci.yml
+
+**/vendor/
+**/node_modules/
+bootstrap/cache/**/*
